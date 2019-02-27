@@ -1,4 +1,4 @@
-# pixela-diary
+# pixela-diary --
 
 Keep your diary with [Pixe.la](https://pixe.la)!
 
